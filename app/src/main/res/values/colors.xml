@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tv1_1">#f1c40f</color>
+    <color name="tv1_2">#eb2f06</color>
+    <color name="tv1_3">#f8c291</color>
+
+    <color name="tv2_1">#d35400</color>
+    <color name="tv2_2">#ff7979</color>
+    <color name="tv2_3">#c0392b</color>
+
+    <color name="tv3_1">#1abc9c</color>
+    <color name="tv3_2">#c7ecee</color>
+    <color name="tv3_3">#22a6b3</color>
+
+    <color name="tv4_1">#3498db</color>
+    <color name="tv4_2">#4834d4</color>
+    <color name="tv4_3">#9b59b6</color>
+
+    <color name="tv5_1">#7f8c8d</color>
+    <color name="tv5_2">#34495e</color>
+    <color name="tv5_3">#130f40</color>
+</resources>
